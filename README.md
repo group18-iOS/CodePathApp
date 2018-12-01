@@ -31,10 +31,7 @@ The app allows users to input the ingredients they have and shows them the possi
 
 --
 
-
-# README Template
-
-Your [Baking App](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (described in that link) will look like the following in your README:
+[Baking App](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit)
 
 ## 1. User Stories (Required and Optional)
 
@@ -84,3 +81,7 @@ Your [Baking App](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (described in t
  * Detail
    * Home
    * Search
+
+--
+
+<img src="https://github.com/group18-iOS/CodePathApp/blob/master/wireframes.gif" width=200><br>
