@@ -70,9 +70,9 @@ The app allows users to input the ingredients they have and shows them the possi
 ---
 
 ### Wireframes
-<img src="https://github.com/group18-iOS/CodePathApp/blob/master/wireframes%20layout.png"><br>
+<img src="https://github.com/group18-iOS/CodePathApp/blob/master/wireframes%20layout1.png"><br>
 
-<img src="https://github.com/group18-iOS/CodePathApp/blob/master/wireframes.gif" width=200><br>
+<img src="https://github.com/group18-iOS/CodePathApp/blob/master/wireframes1.gif" width=200><br>
 
 ---
 
