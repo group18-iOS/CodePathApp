@@ -77,4 +77,4 @@ The app allows users to input the ingredients they have and shows them the possi
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+[Pitch Presentation Deck] (https://docs.google.com/presentation/d/1vXCFhNlVfcYGdf2TKTOg1F9TQ_y5cZ4Lf_iI2FwNnSw/edit#slide=id.g46191e9b52_0_262)
